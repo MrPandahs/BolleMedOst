@@ -11,6 +11,8 @@ main{
 }
 
 p{
+    margin: 10px;
+    padding: 10px;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -18,6 +20,7 @@ p{
 }
 
 h1 {
+    margin: 20px;
     background-color: #5393ca;
     color: white;
     font-family: "Oswald", sans-serif;
