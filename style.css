@@ -1,14 +1,16 @@
 html {
-    background-color: beige;
+    background-color: #fdc4e2;
 }
 body{
     margin: 0;
     padding: 0;
 }
+main{
+    padding-left: 60px;
+    padding-right: 60px;
+}
 
 p{
-    margin: 20px;
-    padding: 10px;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -16,11 +18,11 @@ p{
 }
 
 h1 {
-    margin: 20px;
-    padding: 10px;
-    background-color: #1E88E5;
+    background-color: #5393ca;
+    color: white;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+    padding-left: 60px;
 }
