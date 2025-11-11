@@ -19,13 +19,17 @@ p{
     font-style: normal;
 }
 
-h1 {
+header{
     margin: 20px;
     background-color: #5393ca;
+    padding-left: 60px;
+}
+
+h1 {
     color: white;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-    padding-left: 60px;
+
 }
