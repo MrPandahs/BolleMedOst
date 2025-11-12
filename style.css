@@ -30,6 +30,12 @@ p{
     font-style: normal;
 }
 
+img{
+    border-bottom-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
 header{
     margin: 20px;
     background-color: #5393ca;
