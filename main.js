@@ -176,17 +176,17 @@ const isOstChecked = () => {
 //--------------------------------------------------------------------------
 
 const setBolleChecked = () => {
-    bolle.textContent = 'checked="checked"'
+    bolle.innerText = 'checked="checked"'
     isBolleChecked()
 }
 
 const setSmørChecked = () => {
-    smør.textContent = 'checked="checked"'
+    smør.innerText = 'checked="checked"'
     isSmørChecked()
 }
 
 const setOstChecked = () => {
-    ost.textContent = 'checked="checked"'
+    ost.innerText = 'checked="checked"'
     isOstChecked()
 }
 
