@@ -36,7 +36,7 @@ img{
 header{
     margin: 20px;
     background-color: #5393ca;
-    padding-left: 60px;
+    padding-left: 190px;
 }
 
 h1 {
@@ -45,5 +45,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-
+    font-size: xx-large;
+    height: 55px;
+    padding: 30px;
 }
