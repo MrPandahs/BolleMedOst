@@ -70,3 +70,24 @@ a{
 #amager-pic{
     width: 40%;
 }
+.buttons {
+    display: flex;
+    justify-content: left;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.buttons label {
+    border: 2px solid #5393ca;
+    padding: 8px 16px;
+    border-radius: 8px;
+    color: #5393ca;
+    font-family: "Oswald", sans-serif;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.buttons label:hover {
+    background-color: #5393ca;
+    color: white;
+}
