@@ -1,13 +1,21 @@
 html {
-    background-color: #fdc4e2;
+
 }
 body{
     margin: 0;
     padding: 0;
+    display: flex;
 }
 main{
     padding-left: 60px;
     padding-right: 60px;
+
+}
+
+#side{
+    background-color: hotpink;
+    width: 10%;
+    height: 100%;
 }
 
 p{
