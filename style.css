@@ -4,7 +4,6 @@ html {
 body{
     margin: 0;
     padding: 0;
-    display: flex;
 }
 main{
     padding-left: 60px;
@@ -12,7 +11,11 @@ main{
 
 }
 
-#side{
+.under-header{
+    display: flex
+}
+
+.side{
     background-color: hotpink;
     width: 10%;
     height: 100%;
