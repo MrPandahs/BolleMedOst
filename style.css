@@ -60,4 +60,13 @@ a{
 
 .spacing{
     height: 15px;
+    width: 30px;
+}
+
+#start-of-site{
+    display: flex;
+}
+
+#amager-pic{
+    width: 40%;
 }
