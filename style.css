@@ -4,7 +4,6 @@ html {
 body{
     margin: 0;
     padding: 0;
-    display: flex;
 }
 main{
     padding-left: 60px;
@@ -12,19 +11,28 @@ main{
 
 }
 
-#side{
-    background-color: hotpink;
-    width: 10%;
+.under-header {
+    display: flex;
     height: 100%;
+    min-height: 100vh;
+}
+
+.side {
+    background-color: hotpink;
+    width: 30%;
 }
 
 p{
-    margin: 10px;
-    padding: 10px;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+}
+
+img{
+    border-bottom-width: 1px;
+    border-color: black;
+    border-style: solid;
 }
 
 header{
