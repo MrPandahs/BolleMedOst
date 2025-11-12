@@ -11,14 +11,15 @@ main{
 
 }
 
-.under-header{
-    display: flex
+.under-header {
+    display: flex;
+    height: 100%;
+    min-height: 100vh;
 }
 
-.side{
+.side {
     background-color: hotpink;
-    width: 10%;
-    height: 100%;
+    width: 30%;
 }
 
 p{
